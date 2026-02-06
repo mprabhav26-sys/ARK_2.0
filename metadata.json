@@ -1,0 +1,5 @@
+{
+  "name": "NeuroLearn AI",
+  "description": "An adaptive, multimodal AI learning platform for Machine Learning concepts. Personalizes content via text, code, audio, and generated visuals.",
+  "requestFramePermissions": []
+}
